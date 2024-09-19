@@ -22,7 +22,7 @@ public class studio_3code {
 					primeNums[i] = false;
 				}
 			System.out.println((primeNums[j]));
-		}
+			}
 	}
 		}
 	}
